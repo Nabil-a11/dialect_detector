@@ -1,6 +1,6 @@
 # 🗣️ Arabic Dialect Identification — Dialect Classification with Transformers
 
-![Dialect Classification](data/dialect_sample.png)
+![Dialect Classification](https://github.com/Nabil-a11/dialect_detector/blob/main/Screenshot%202025-11-15%20220337.png)
 
 [![HuggingFace](https://huggingface.co/spaces/NvbilVmir1/Madar-CAMeLBERT)]()
 [![HuggingFace](https://huggingface.co/spaces/NvbilVmir1/Madar)]()
