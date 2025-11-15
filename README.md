@@ -70,7 +70,8 @@ Explore the detailed implementation and experiments in these Google Colab notebo
 
 - Nabil Amir  
 - Fares Mohamed  
-- Abdelrahman Mohamed  
+- Abdelrahman Mohamed
+- Salah Eldin Mostafa
 - Marwan Elgabry
 
 ---
