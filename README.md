@@ -57,6 +57,24 @@ We use the **MADAR corpus**, grouped into four dialect clusters based on city:
 
 ---
 
+## 📒 Notebooks
+
+Explore the detailed implementation and experiments in these Google Colab notebooks:
+
+- [Notebook 1 - CAMelBRET](https://colab.research.google.com/drive/19Jvxkr-1sXci2RXkVN6mixs9dLH2QSNG#scrollTo=O1cVjdh1VYRG)
+- [Notebook 2 - AraELECTRA](https://colab.research.google.com/drive/1e-qwLiDzPk6EBaq4QfMejOSQ0KAVQhfi#scrollTo=JdkHEDLS2HR7)
+
+---
+
+## 👥 Team Members
+
+- Nabil Amir  
+- Fares Mohamed  
+- Abdelrahman Mohamed  
+- Marwan Elgabry
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Clone Repository
