@@ -2,9 +2,12 @@
 
 ![Dialect Classification](https://github.com/Nabil-a11/dialect_detector/blob/main/Screenshot%202025-11-15%20220337.png)
 
-[![HuggingFace](https://huggingface.co/spaces/NvbilVmir1/Madar-CAMeLBERT)]()
-[![HuggingFace](https://huggingface.co/spaces/NvbilVmir1/Madar)]()
-[![Dataset](https://www.kaggle.com/datasets/mafazachabane/madar-corpus)]()
+[![HuggingFace Space CAMeLBERT](https://img.shields.io/badge/HuggingFace--CAMeLBERT-blue?logo=huggingface)](https://huggingface.co/spaces/NvbilVmir1/Madar-CAMeLBERT)
+
+[![HuggingFace Model](https://img.shields.io/badge/HuggingFace--Model-orange?logo=huggingface)](https://huggingface.co/spaces/NvbilVmir1/Madar)
+
+[![MADAR Dataset](https://img.shields.io/badge/Dataset-MADAR-green?logo=kaggle)](https://www.kaggle.com/datasets/mafazachabane/madar-corpus)
+
 
 *Arabic Dialect Identification* is a deep learning project that classifies Arabic text into four main dialect groups: Egyptian, Khaleeji (Gulf), Levantine, and African (Maghrebi). The models leverage transformer architectures fine-tuned on the MADAR corpus.
 
